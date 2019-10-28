@@ -101,7 +101,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI"
+          :known_for => "GUI",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -128,8 +128,8 @@ def adding_to_dennis
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "Unix"
-          :languages => ["C"]
+          :known_for => "Unix",
+          :languages => ["C", "Assembly"]
         }
      }
 
